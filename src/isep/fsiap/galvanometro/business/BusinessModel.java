@@ -11,7 +11,7 @@ import java.io.Serializable;
  * Classe Responsável por realizar todos os cálculos. Os itens modelados são
  * considerados ideais.
  *
- * @author Daniel lopes - 1070912
+ * @author Daniel lopes
  */
 public class BusinessModel implements Serializable{
     
